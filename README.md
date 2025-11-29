@@ -33,7 +33,7 @@
 
 2.  **Εκτέλεση:**
     ```bash
-    python opske_final_v7.py
+    opske_automatation_agent.py
     ```
 
 3.  **Λειτουργία:**
