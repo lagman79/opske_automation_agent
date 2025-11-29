@@ -1,0 +1,19 @@
+# Python cache files (δημιουργούνται αυτόματα, δεν τα θέλουμε)
+__pycache__/
+*.py[cod]
+
+# Virtual Environment (αν χρησιμοποιείς)
+venv/
+.venv/
+env/
+
+# Excel files (ΠΡΟΣΟΧΗ: Περιέχουν προσωπικά δεδομένα!)
+*.xlsx
+*.xls
+
+# Screenshots folder (δημιουργείται από το script σου)
+screenshots/
+
+# System files
+.DS_Store
+Thumbs.db
